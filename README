@@ -1,0 +1,6 @@
+This software is just a LED blinker example code.
+The MCU part used in the code is Atmel/Microchip ATtiny2313, and
+the fuse value used is factory default.
+
+see https://www.clarestudio.org/elec/avr for more informations.
+(if you can read Japanese...)
